@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Language Helper</string>
+    <string name="main_activity_title" translatable="false">[EN] This title is in English</string>
+    <string name="main_activity_desc" translatable="false">This is the description text in English.</string>
+    <string name="main_activity_about" translatable="false">This is about text in English.</string>
+    <string name="main_activity_to_tr_button" translatable="false">Turkish</string>
+    <string name="main_activity_to_en_button" translatable="false">English</string>
+    <string name="main_activity_toolbar_title" translatable="false">Title in English</string>
+    <string name="second_activity_title" translatable="false">[EN] Second activity in English</string>
+    <string name="second_activity_desc" translatable="false">Second description text is in English.</string>
+    <string name="main_second_activity" translatable="false">Second page ></string>
+    <string name="back_button" translatable="false"><![CDATA[< Go back]]></string>
+    <string name="main_activity_to_ur_button" translatable="false">Urdu</string>
+    <string name="dark" translatable="false">Dark</string>
+    <string name="light" translatable="false">Light</string>
+    <string name="main_activity_to_cn_button" translatable="false">English</string>
+</resources>

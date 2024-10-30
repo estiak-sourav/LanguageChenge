@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">ল্যাঙ্গুয়েজে হেল্পার</string>
+    <string name="main_activity_title" translatable="false">[BN] এই শিরোনামটি বাংলায়</string>
+    <string name="main_activity_desc" translatable="false">এটি ইংরেজিতে বর্ণনা পাঠ্য.</string>
+    <string name="main_activity_about" translatable="false">এটি ইংরেজিতে পাঠ্য সম্পর্কে.</string>
+    <string name="main_activity_to_tr_button" translatable="false">তুর্কি</string>
+    <string name="main_activity_to_en_button" translatable="false">ইংরেজি</string>
+    <string name="main_activity_toolbar_title" translatable="false">বাংলায় শিরোনাম</string>
+    <string name="second_activity_title" translatable="false">[EN] বাংলায় দ্বিতীয় কার্যক্রম</string>
+    <string name="second_activity_desc" translatable="false">দ্বিতীয় বর্ণনার পাঠ্য বাংলায়.</string>
+    <string name="main_second_activity" translatable="false">দ্বিতীয় পাতা ></string>
+    <string name="back_button" translatable="false"><![CDATA[< ফিরে যান]]></string>
+    <string name="main_activity_to_ur_button" translatable="false">উর্দু</string>
+    <string name="dark" translatable="false">ডার্ক</string>
+    <string name="light" translatable="false">লাইট</string>
+</resources>
